@@ -1,3 +1,5 @@
+//test vscode.dev
+
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const log = require(`./logs.js`);
